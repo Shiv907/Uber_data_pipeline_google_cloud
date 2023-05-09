@@ -34,4 +34,9 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
+## My Medium Article
+Part 1: https://medium.com/@shivanshug55/from-csv-to-dashboard-data-engineering-pipeline-with-google-cloud-5b1f7bab7ca2
+Part 2: https://medium.com/@shivanshug55/from-csv-to-dashboard-data-engineering-pipeline-with-google-cloud-part-2-bc6ccdee85a0
+
+
 
